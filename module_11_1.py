@@ -40,7 +40,7 @@
 #   }
 # }
 
-access_key = '08f0eff5-826c-4c35-9e65-61269bf370b4'     # ключ доступа к яндекс погоде
+access_key = ''     # ключ доступа к яндекс погоде
 
 from pprint import pprint
 import requests
